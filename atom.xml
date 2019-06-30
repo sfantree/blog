@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>番茄小窝</title>
+  
+  <subtitle>(゜-゜)つロ 乾杯~</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.sfantree.com/"/>
+  <updated>2019-06-30T01:20:51.592Z</updated>
+  <id>https://www.sfantree.com/</id>
+  
+  <author>
+    <name>popy32</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Maruko&#39;s Toolbox（小丸工具箱）命令行版本移植</title>
+    <link href="https://www.sfantree.com/2019/06/30/Maruko-Shell-Edition/"/>
+    <id>https://www.sfantree.com/2019/06/30/Maruko-Shell-Edition/</id>
+    <published>2019-06-30T08:59:35.000Z</published>
+    <updated>2019-06-30T01:20:51.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;小丸工具箱是一款个人开发的压制工具，作者将常用转码工具进行打包，使用户可以充分利用x264编码的优越性，在保证画质清晰的同时减小视频体积，发布版本为跨平台的GUI版本，但个人需求为充分利用多核云主机的运算性能，受制于平台限制，只能在命令行下进行操作。于是我简单分析了下压制日
+        
+      
+    
+    </summary>
+    
+      <category term="技术控" scheme="https://www.sfantree.com/categories/%E6%8A%80%E6%9C%AF%E6%8E%A7/"/>
+    
+    
+      <category term="FFmpeg" scheme="https://www.sfantree.com/tags/FFmpeg/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Chromebook Pixel 2013 安装 FydeOS</title>
+    <link href="https://www.sfantree.com/2019/03/16/Chromebook-Pixel-2013-Install-FydeOS/"/>
+    <id>https://www.sfantree.com/2019/03/16/Chromebook-Pixel-2013-Install-FydeOS/</id>
+    <published>2019-03-16T18:57:26.000Z</published>
+    <updated>2019-06-30T01:20:51.592Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;首先是拆机壳儿，去除硬件写保护，不得不吐槽这个Chromebook后盖比较难打开，四个底座是用胶水封上的。&lt;/p&gt;
+&lt;p&gt;接着是启用开发者模式&lt;/p&gt;
+&lt;p&gt;进入开发者模式：&lt;code&gt;电源键+esc+刷新键&lt;/code&gt; (第1排左到右第4个键)&lt;br&gt;系统重启后&lt;br&gt;忽略系统警告：&lt;code&gt;ctrl+d&lt;/code&gt;&lt;br&gt;关闭系统验证：&lt;code&gt;ENTER键&lt;/code&gt; &lt;/p&gt;
+&lt;p&gt;跳过系统警告：&lt;code&gt;ctrl+d&lt;/code&gt; (可能需多按几次)&lt;br&gt;系统开始部署开发者模式环境，大概需要5-10分钟左右完成&lt;br&gt;自动重启后，如果能用&lt;code&gt;ctrl+alt+后退键&lt;/code&gt;（第1排第2个键）和 &lt;code&gt;ctrl+alt+前进键&lt;/code&gt;（第1排第3个键）来回切换终端与桌面，表示开启成功。&lt;/p&gt;
+&lt;p&gt;进入终端，按&lt;code&gt;ctrl+alt+f2&lt;/code&gt;进入linux界面后，登陆管理员账户，chronos，正常输入一次即可&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术控" scheme="https://www.sfantree.com/categories/%E6%8A%80%E6%9C%AF%E6%8E%A7/"/>
+    
+    
+      <category term="Chromebook" scheme="https://www.sfantree.com/tags/Chromebook/"/>
+    
+  </entry>
+  
+</feed>
